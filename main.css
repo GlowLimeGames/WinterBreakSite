@@ -1,0 +1,33 @@
+body {
+    background-color: black !important;
+    color: white !important;
+    font-family: 'Lora', serif !important;
+    
+}
+
+#logo{
+    height: 200%;
+}
+
+.jumbotron {
+    background-color: black !important;
+}
+
+.jumbotron h2 {
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h3 {
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+footer.row {
+    display: flex;
+    justify-content: left;
+}
